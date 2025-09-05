@@ -34,13 +34,43 @@ There are four major locations for the delivery of this unit:
 
 The reading and video lectures are available early so you can slot them around your timetable and learning preferences. However, a suggested timetable for engaging with this unit would be:
 
-[Mon, 10:00] Lecture : Turn up to the in-person session, ask questions, take part in discussion about the previous week's reading and exercises.
-[Mon, 13:00] "Video 1" : Watch the videos for the first lecture, and raise any questions online.
-[Wed, 11:00] Lab : Turn up to the lab session and tackle the lab worksheet with your group.
-[Wed, 15:00] "Video 2" : Watch the videos for the second lecture.
-[Thu, 15:00] Read : Tackle the week's reading assignment.
+[Mon, 10:00] _Lecture_ : Turn up to the in-person session, ask questions, take part in discussion about the previous week's reading and exercises.
+[Mon, 13:00] _"Video 1"_ : Watch the videos for the first lecture, and raise any questions online.
+[Wed, 11:00] _Lab_ : Turn up to the lab session and tackle the lab worksheet with your group.
+[Wed, 15:00] _"Video 2"_ : Watch the videos for the second lecture.
+[Thu, 15:00] _Read_ : Tackle the week's reading assignment.
 
-For those of you on the MAJOR version of the course, the mid-term will take place in Week 8. 
+
+## Assessment
+
+You will have signed up to this unit as either the Major or Minor option.
+
+**Students on the Major option** will be assessed via:
+
+1. A 1-hour exam taken in Week 8, in which you will answer two short exam essay questions (from a selection of four options) [30% of your mark]
+2. An original research essay you work on over the three-week coursework period, more details about this will be released at the end of Week 8. [70% of your mark]
+
+**Students on the Minor option** will take the equivalent of a one-hour written exam, in the January assessment period. You will produce one long-form exam essay (from a selection of two options). 
+
+None of the other material directly contributes to your mark for this unit.
+
+Many of you may not have written an essay (for an exam or as coursework) since A-level or even longer ago. To help you out, we are offering **optional** _formative_ writing assessments in every week, so you can get feedback on essay-writing from your TAs before you sit your summative assessment. The formative assessment does not contribute to your mark for the unit, and you are not required to submit anything. These writing assignments will be released with each lab worksheet, for return the next week. This integrated early practice is something specifically requested by previous years' students. 
+
+In addition, we are providing examples of past good answers to essay questions from this unit (all these students achieved first-class results overall).
+
+- [coursework 1](./examples/essay1.pdf)
+- [coursework 2](./examples/essay2.pdf)
+- [coursework 3](./examples/essay3.pdf)
+- [exam 1](./examples/exam1.pdf)
+- [exam 2](./examples/exam2.pdf)
+- [exam 3](./examples/exam3.pdf)
+
+Students on the **Minor** option will want to look at the 'L' answers in past exam-essay answers -- this is the style you should be aiming at for your summative assessment.
+
+Students on the **Major** option will want to look at the 'S' answers in past exam-essay answers to understand the style for the Week 8 examination, and look at the coursework essays as examples for their own original research essay. 
+
+Remember that these are examples for the style of writing you should be aiming at, and not the topics of questions and assignments, which we change (within reason) from year to year. Note also that exam essays must be hand-written.
+
 
 ## Contact
 
