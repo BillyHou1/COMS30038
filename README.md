@@ -34,11 +34,11 @@ There are four major locations for the delivery of this unit:
 
 The reading and video lectures are available early so you can slot them around your timetable and learning preferences. However, a suggested timetable for engaging with this unit would be:
 
-[Mon, 10:00] _Lecture_ : Turn up to the in-person session, ask questions, take part in discussion about the previous week's reading and exercises.
-[Mon, 13:00] _"Video 1"_ : Watch the videos for the first lecture, and raise any questions online.
-[Wed, 11:00] _Lab_ : Turn up to the lab session and tackle the lab worksheet with your group.
-[Wed, 15:00] _"Video 2"_ : Watch the videos for the second lecture.
-[Thu, 15:00] _Read_ : Tackle the week's reading assignment.
+- [Mon, 10:00] _Lecture_ : Turn up to the in-person session, ask questions, take part in discussion about the previous week's reading and exercises.
+- [Mon, 13:00] _"Video 1"_ : Watch the videos for the first lecture, and raise any questions online.
+- [Wed, 11:00] _Lab_ : Turn up to the lab session and tackle the lab worksheet with your group.
+- [Wed, 15:00] _"Video 2"_ : Watch the videos for the second lecture.
+- [Thu, 15:00] _Read_ : Tackle the week's reading assignment.
 
 
 ## Assessment
