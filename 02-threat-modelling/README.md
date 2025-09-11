@@ -16,9 +16,9 @@ This week's reading is "An Evening with Berferd" by Bill Cheswick. You can acces
 
 | Lecture | Title | Video | Slides |
 |---------|-------|-------|--------|
-| 1.1 | Killchains | [streams](https://uob-my.sharepoint.com/:v:/g/personal/me17847_bristol_ac_uk/EQ8gvdO6XLdBsdxgFqUWLIcB9z-6bL2Nqxefe6-oKtTamw)[mediasite](https://mediasite.bris.ac.uk/Mediasite/Play/a36375e6eb4d42218c9766db5b764ad91d) | [slides](slides/killchains.pdf) |
-| 1.2 | Attack Trees | [streams](https://uob-my.sharepoint.com/:v:/g/personal/me17847_bristol_ac_uk/EToosiboM7lKuL189tiyNfgB3bnzKx1SAV5POpVpCujnJQ?e=c6jWap)[mediasite](https://mediasite.bris.ac.uk/Mediasite/Play/c689b107c34640be91ee122d558a5b121d) | [slides](slides/attack_trees.pdf) |
-| 2 |  Security Operations | [streams](https://uob-my.sharepoint.com/:v:/g/personal/me17847_bristol_ac_uk/EYFdLDDugkxGstwbQzJ6wToBu5LBXnhzEjn3wSFWJqE6Kg?e=5LNvF4)[mediasite](https://mediasite.bris.ac.uk/Mediasite/Play/1a43c84b73c2468cb3148e5a1cd6cd841d) | [slides](slides/secops.pdf) |
+| 1.1 | Killchains | [streams](https://uob-my.sharepoint.com/:v:/g/personal/me17847_bristol_ac_uk/EQ8gvdO6XLdBsdxgFqUWLIcB9z-6bL2Nqxefe6-oKtTamw) [mediasite](https://mediasite.bris.ac.uk/Mediasite/Play/a36375e6eb4d42218c9766db5b764ad91d) | [slides](slides/killchains.pdf) |
+| 1.2 | Attack Trees | [streams](https://uob-my.sharepoint.com/:v:/g/personal/me17847_bristol_ac_uk/EToosiboM7lKuL189tiyNfgB3bnzKx1SAV5POpVpCujnJQ?e=c6jWap) [mediasite](https://mediasite.bris.ac.uk/Mediasite/Play/c689b107c34640be91ee122d558a5b121d) | [slides](slides/attack_trees.pdf) |
+| 2 |  Security Operations | [streams](https://uob-my.sharepoint.com/:v:/g/personal/me17847_bristol_ac_uk/EYFdLDDugkxGstwbQzJ6wToBu5LBXnhzEjn3wSFWJqE6Kg?e=5LNvF4) [mediasite](https://mediasite.bris.ac.uk/Mediasite/Play/1a43c84b73c2468cb3148e5a1cd6cd841d) | [slides](slides/secops.pdf) |
 
 [Lecture 1 notes](killchain_and_attack_trees.pdf)
 [Lecture 2 notes](security_operations.pdf)
