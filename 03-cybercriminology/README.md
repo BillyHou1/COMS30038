@@ -37,4 +37,4 @@ Download the lab worksheet and meet with your TA group, where you will be
 divided into small groups of 3-4 people.
 
 - [Lab worksheet](lab_crime.pdf)
-- [silkroad.tar.gz](silkroad.tar.gz)
+- [silkroad.tar.bz2](silkroad.tar.bz2)
