@@ -31,7 +31,7 @@ The reading this week is "Understanding eWhoring" by Hutchings & Pastrana, avail
 ## Lab
 
 In this week's lab you will be working with cybercriminal discussions from the
-original Silk Road forum. 
+original Silk Road cryptomarket's forum. 
 
 Download the lab worksheet and meet with your TA group, where you will be
 divided into small groups of 3-4 people.
