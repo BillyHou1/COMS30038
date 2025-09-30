@@ -1,6 +1,6 @@
 # Security Behaviours
 
-Unit materials for the _Security Behaviours_ unit (COMS30088).
+Unit materials for the _Security Behaviours_ unit (COMS30038).
 
 
 ## Unit Overview
