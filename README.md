@@ -26,7 +26,7 @@ There are four major locations for the delivery of this unit:
 | 2 | [Attack Models](./02-threat_modelling/) | Matthew |
 | 3 | [Cybercriminology](./03-cybercriminology) | Matthew |
 | 4 | [Security Economics](./04-security_economics) | Matthew |
-| 5 | Human Security | Marvin |
+| 5 | [Human Security](./05-Human_security) | Marvin |
 | 6 | Reading Week | NA |
 | 7 | Practice & Error | Marvin | 
 | 8 | Biases & Mitigation | Marvin |
