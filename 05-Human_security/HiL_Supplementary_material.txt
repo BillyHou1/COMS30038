@@ -1,0 +1,40 @@
+---
+Title: COMS30038 Security Behaviours - Human in the loop Supplemental Info
+Author: Dr K. M Ramokapane
+Date: Oct 2025
+---
+ 
+ 
+# Description
+This week we introduce the Security Behaviours unit along with a look the challenges of having a human in the loop when it comes to secure systems and just how aware we are of security.
+ 
+ 
+# Reading List
+## Humans in the Loop
+A Framework for Reasoning About the Human in the Loop.
+Cranor, L. 2008
+https://www.usenix.org/legacy/events/upsec08/tech/full_papers/cranor/cranor.pdf
+
+ 
+## Optional
+Users are not the enemy.
+Adams, A and Sasse, M. A. 1999
+https://dl.acm.org/doi/pdf/10.1145/322796.322806
+
+Folk models of home computer security, in: Proceedings of the Sixth Symposium on Usable Privacy and Security
+Wash R., 2010,
+https://dl.acm.org/doi/10.1145/1837110.1837125
+ 
+ 
+ 
+# Exercises
+HiL discussion questions on last but one slide for AMA session.  Pick a few (NOT all).
+Humans have limited capacity.  Can you think of a security-related situation when you have struggled to do, or even remember to do, something?  Do you reuse passwords, and why? What sorts of tools might help people overcome that capacity issue?
+ 
+Humans just don’t know what to do. Can you think of a situation when you knew you had to do something, but just couldn’t figure out what or how?  How about as a software engineer - say you needed to store passwords in your code somewhere, would you know how to?  Would you know where to find best practice?
+ 
+Humans might just are not motivated enough.  How do you prioritise security tasks in software development?  What comes first functionality or security?  Who makes that decision?  When you are busy do you just make a placeholder note in the code and get on with the real task at hand?  What about as a user; do you ever actually read privacy or cookie notices, or do they just get in the way?
+ 
+Humans do something deliberately. I’d bet you have done something deliberately that was not pro-security.  How about that password reuse question above? What other decisions have you made that might not be in the best interest of security?  What pressures were on you to make that decision?
+
+ 
