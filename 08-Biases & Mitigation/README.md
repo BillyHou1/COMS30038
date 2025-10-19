@@ -3,7 +3,7 @@
 This week focuses on the role of bias and security ergonomics. We will be covering:
 
 - What is meant by bias and what does it mean for cybersecurity
-- Discuss System 1 and System 2 thinking
+- System 1 and System 2 thinking
 - What do we mean by Security Ergonomics by Design
 - Principles of Security Ergonomics by Design
 
