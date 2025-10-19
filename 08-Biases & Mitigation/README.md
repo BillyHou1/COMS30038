@@ -1,4 +1,4 @@
-# Week 7: The role of Bias & Security Ergonomics by Design
+# Week 8: The role of Bias & Security Ergonomics by Design
 
 This week focuses on the role of bias and security ergonomics. We will be covering:
 
