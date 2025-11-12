@@ -50,7 +50,7 @@ You will have signed up to this unit as either the Major or Minor option.
 1. A 1-hour exam taken in Week 8, in which you will answer two short exam essay questions (from a selection of four options) [30% of your mark]
 2. An original research essay you work on over the three-week coursework period, more details about this will be released at the end of Week 8. [70% of your mark]
 
-**Students on the Minor option** will take the equivalent of a one-hour written exam, in the January assessment period. You will produce one long-form exam essay (from a selection of two options). 
+**Students on the Minor option** will take the equivalent of a one-hour written exam, in the December assessment period. You will produce one long-form exam essay (from a selection of two options). 
 
 None of the other material directly contributes to your mark for this unit.
 
