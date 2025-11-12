@@ -1,0 +1,54 @@
+---
+title: COMS30038 Security Behaviours - Inclusive Security and Error in Practice Supplemental Info
+purpose: 
+author: Dr Ramokapane 
+date: Oct 2025
+---
+
+
+# Description
+This week we explore **Inclusive Security** — extending usable security to account for diversity, accessibility, and fairness.  
+If *usable security* is about fitting the task to the human, *inclusive security* asks: **which humans are we fitting to?**
+
+We discuss how exclusion (whether physical, cognitive, cultural, or socio-economic) can lead to insecurity, and how inclusive design improves both usability and resilience.  
+By the end, students should understand how inclusive security practices help create systems that are **fair, accessible, and adaptive to context**.
+
+
+
+# Reading List
+## Inclusive Security
+
+Wang, Yang. "The third wave? Inclusive privacy and security." Proceedings of the 2017 new security paradigms workshop. 2017. https://www.nspw.org/papers/2017/nspw2017-wang.pdf
+
+Renaud, Karen, and Lizzie Coles-Kemp. "Accessible and inclusive cyber security: a nuanced and complex challenge." SN Computer Science 3.5 (2022): 346. https://link.springer.com/article/10.1007/s42979-022-01239-1
+
+
+## Just Culture
+Craggs, B. 2019
+A Just Culture is Fundamental: Extending Security Ergonomics by Design
+2019 IEEE/ACM 5th International Workshop on Software Engineering for Smart Cyber-Physical Systems (SEsCPS)
+
+## Optional Other Background
+
+Das Chowdhury, P., Domínguez Hernández, A., Ramokapane, K. M., & Rashid, A. (2022, October). From utility to capability: A new paradigm to conceptualize and develop inclusive pets. In Proceedings of the 2022 New Security Paradigms Workshop (pp. 60-74). https://www.nspw.org/papers/2022/nspw2022-daschowdhury.pdf
+
+
+# Exercises
+## “Different Threat Models” Reflection
+Consider three different user contexts (e.g., an activist, an older adult, and a student).  
+For each, outline:
+- Their **primary security risks**.  
+- How a standard security design (like automatic session lockout, or facial recognition) might **fail or endanger** them.  
+- A design adaptation that would make it more inclusive and safe.
+
+## Error in Practice 
+Add two security events to the matrix making sure to not your rationale for its position relative to both Failure and Intentionality
+
+“Exclusion is a latent failure in security design.”  
+Do you agree?  
+Use one real-world example to support your argument (e.g., biometric bias, inaccessible CAPTCHA, or domestic-abuse threat models).  
+
+## Key Questions for Reflection
+- Who is the “default user” in most security design assumptions?  
+- What happens when users are left out of the protection model?  
+- How can inclusivity improve both usability and trust in security?

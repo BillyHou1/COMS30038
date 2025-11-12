@@ -1,0 +1,55 @@
+---
+title: COMS30038 Security Behaviours - Usable Security Supplemental Info
+purpose: 
+author: Dr Ramokapane 
+date: Oct 2025
+---
+
+
+# Description
+This week we firstly look at the need for security to be usable followed by a dive into the world of error, where and why this manifests and how we can harness error for good.
+
+
+# Reading List
+## Error
+Sasse, M.A and Flechais, I. 2005
+Usable Security - Why do we need it? How do we get it?
+https://discovery.ucl.ac.uk/20345/2/cransimpsonbook.pdf
+
+## Just Culture
+Craggs, B. 2019
+A Just Culture is Fundamental: Extending Security Ergonomics by Design
+2019 IEEE/ACM 5th International Workshop on Software Engineering for Smart Cyber-Physical Systems (SEsCPS)
+
+## Optional Other Background
+D. D. Caputo, S. L. Pfleeger, M. A. Sasse, P. Ammann, J. Offutt and L. Deng, 2016 
+Barriers to Usable Security? Three Organizational Case Studies 
+IEEE Security & Privacy, vol. 14, no. 5, pp. 22-32, Sept.-Oct. 2016, doi: 10.1109/MSP.2016.95.
+
+Theofanos, M. NIST.  2020
+Is Usable Security an Oxymoron?
+https://csrc.nist.gov/CSRC/media/Projects/usable-cybersecurity/images-media/Is%20Usable%20Security%20an%20Oxymoron.pdf
+
+A. Whitten and J. D. Tygar. 1999 
+Why Johnny can’t encrypt: A usability evaluation of PGP 5.0
+in Proc. USENIX 1999. Washington, D.C.: USENIX Press, 1999, pp. 169–184.
+
+Saltzer, J. H., & Schroeder, M. D. 1975
+The protection of information in computer systems. 
+Proceedings of the IEEE, 63(9), 1278-1308.
+[note: read up to section B Technical Underpinnings on page 1283 - you are welcome to go beyond but it isn't critical at this point]
+
+
+
+# Exercises
+On slides as always but:
+## Usable Security 
+Pick ANY security tool (other than a password manager!) and, based on your own experience, see if you can answer the three usability measures for it:
+Effectiveness "Can users achieve their goals?”
+Efficiency "What resources are expended to do so?”
+Satisfaction "What is the user level of comfort and acceptability?"
+
+## Error in Practice 
+Add two security events to the matrix making sure to not your rationale for its position relative to both Failure and Intentionality
+
+Consider the login screen as to what might be wrong with it

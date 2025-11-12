@@ -1,0 +1,43 @@
+---
+title: COMS30038 Security Behaviours - Week 8 Supplemental Info
+purpose: 
+author: Dr Ramokapane
+date: Nov 2025
+---
+
+
+# Description
+This week we firstly look at the the role that cognitive and physiological biases (as human constraints) can play in helping error occur.  This we follow with a look at Security Ergonomics by Design - a framework designed to help design out (or at least around) as much active and latent failure as possible to create safe & secure systems.  
+
+
+# Reading List
+## Biases
+Dunning, D & Kruger, J. 1999
+Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments
+https://www.avaresearch.com/files/UnskilledAndUnawareOfIt.pdf
+
+
+## Security Ergonomics 
+Craggs, B. & Rashid, A. 2017
+Smart Cyber-Physical Systems: Beyond Usable Security to Security Ergonomics by Design
+2017 IEEE/ACM 3rd International Workshop on Software Engineering for Smart Cyber-Physical Systems (SEsCPS)
+https://doi.org/10.1109/SEsCPS.2017.5
+
+
+
+# Exercises
+## Bias
+Please take this VERY short online test: https://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html
+
+Then try to answer the following for the AMA session:
+Are you aware of any cognitive biases you may have?  What are they?
+
+How might they impact your ability to be secure (either personally or in your work)?
+
+How might Usable Security help / hinder bias?
+
+Can you think of any other cognitive biases from the codex which might have likely implications for cyber security, and how?  (bonus brownie points if it’s not one I’ve picked)
+
+
+## Security Ergonomics 
+None.  You've done enough here I think

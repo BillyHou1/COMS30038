@@ -26,10 +26,10 @@ There are four major locations for the delivery of this unit:
 | 2 | [Attack Models](./02-threat_modelling/) | Matthew |
 | 3 | [Cybercriminology](./03-cybercriminology) | Matthew |
 | 4 | [Security Economics](./04-security_economics) | Matthew |
-| 5 | Human Security | Marvin |
+| 5 | [Human Security](./05-Human_security) | Marvin |
 | 6 | Reading Week | NA |
-| 7 | Practice & Error | Marvin | 
-| 8 | Biases & Mitigation | Marvin |
+| 7 | [Practice & Error](./07-Practice_&_Error)  | Marvin | 
+| 8 | [Biases & Mitigation](./08-Biases_&_Mitigation) | Marvin |
 
 
 The reading and video lectures are available early so you can slot them around your timetable and learning preferences. However, a suggested timetable for engaging with this unit would be:
